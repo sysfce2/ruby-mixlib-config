@@ -1,17 +1,18 @@
 <!-- usage documentation: http://expeditor-docs.es.chef.io/configuration/changelog/ -->
 # Change Log
 
-<!-- latest_release 3.1.7 -->
-## [v3.1.7](https://github.com/chef/mixlib-config/tree/v3.1.7) (2026-06-09)
+<!-- latest_release 3.1.8 -->
+## [v3.1.8](https://github.com/chef/mixlib-config/tree/v3.1.8) (2026-06-29)
 
 #### Merged Pull Requests
-- Use YAML.safe_load to prevent object deserialization from config files [#131](https://github.com/chef/mixlib-config/pull/131) ([tas50](https://github.com/tas50))
+- Normalize CI [#132](https://github.com/chef/mixlib-config/pull/132) ([jaymzh](https://github.com/jaymzh))
 <!-- latest_release -->
 
 <!-- release_rollup since=3.0.27 -->
 ### Changes not yet released to rubygems.org
 
 #### Merged Pull Requests
+- Normalize CI [#132](https://github.com/chef/mixlib-config/pull/132) ([jaymzh](https://github.com/jaymzh)) <!-- 3.1.8 -->
 - Use YAML.safe_load to prevent object deserialization from config files [#131](https://github.com/chef/mixlib-config/pull/131) ([tas50](https://github.com/tas50)) <!-- 3.1.7 -->
 - CHEF-27673 Update and standardize copyright notices to Progress Software Corporation - copyright_update [#128](https://github.com/chef/mixlib-config/pull/128) ([clintoncwolfe](https://github.com/clintoncwolfe)) <!-- 3.1.6 -->
 - Remove docs team from blockers for MD files [#130](https://github.com/chef/mixlib-config/pull/130) ([jaymzh](https://github.com/jaymzh)) <!-- 3.1.5 -->
